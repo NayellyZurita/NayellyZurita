@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nayelly Zurita!
 
-🎓 Data Scientist | 💻 Python Developer | ☁️ AWS Enthusiast  
+🎓 Data Scientist |🤖 Machine Learning Enthusiast | ☁️ AWS Explorer 
 📍 Based in Salt Lake City | 📊 Passionate about Machine Learning
 
 ## 🔧 Technologies & Tools
@@ -10,6 +10,6 @@
 - Power BI, Tableau, Grafana
 
 ## 📈 Current Focus
-- Data Engineering Projects @ Ensign College  
-- Building real-time dashboards with Grafana & TimescaleDB  
+- Data Engineering Projects @ Ensign College
+- Streaming data pipelines using Kafka & TimescaleDB 
 - Preparing for AWS Machine Learning Engineer Associete and Data Engineer Associate Certification 
