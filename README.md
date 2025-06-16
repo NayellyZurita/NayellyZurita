@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Nayelly Zurita!
 
 🎓 Data Scientist |🤖 Machine Learning Enthusiast | ☁️ AWS Explorer 
-📍 Based in Salt Lake City | 📊 Passionate about Machine Learning
+|🔍 Exploring the intersection of data, people, and decisions
+
+📍 Based in Salt Lake City 
 
 ## 🔧 Technologies & Tools
 - Python, SQL, R, Kafka
