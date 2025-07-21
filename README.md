@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Nayelly Zurita!
 
 🎓 Data Scientist |🤖 Data Engineer | ☁️ AWS Explorer 
-|🔍 Exploring the intersection of data, people, and decisions
 
-📍 Based in Salt Lake City 
+🔍 Exploring the intersection of data, people, and decisions
+
+📍Salt Lake City 
 
 ## 🔧 Technologies & Tools
 - Python, SQL, R, Kafka
