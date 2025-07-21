@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nayelly Zurita!
 
-🎓 Data Scientist |🤖 Machine Learning Enthusiast | ☁️ AWS Explorer 
+🎓 Data Scientist |🤖 Data Engineer | ☁️ AWS Explorer 
 |🔍 Exploring the intersection of data, people, and decisions
 
 📍 Based in Salt Lake City 
