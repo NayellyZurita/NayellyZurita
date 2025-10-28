@@ -28,7 +28,7 @@ My recent work includes developing **real-time data pipelines**, automating **ET
 ## 🚀 Featured Projects
 🔹 **[CRE Market Signals](https://github.com/naz154/cre-market-signals)** — County-level data pipeline combining HUD, FRED, and Census APIs into unified market intelligence for real estate analysis (Python, DuckDB, FastAPI, Docker).  
 🔹 **Real-Time Streaming Data Pipeline** — Built and optimized a Kafka → TimescaleDB → Grafana stack to monitor virtual machines’ CPU and RAM in real time, reducing latency and improving alert responsiveness.  
-🔹 **Logo C.P. Accounting & Analytics Website** — A personal web portfolio built with Next.js and Tailwind CSS featuring multilingual support, blog pages, and project showcases.
+
 
 ---
 
