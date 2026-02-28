@@ -15,40 +15,40 @@ I design centralized data architectures, automate workflows, and build executive
 
 I’m a data-driven problem solver who bridges analytics, engineering, and product strategy.
 
- **I'm currently working on**:
+ **Currently working on**:
 
-- 🏗️ Designed and implemented a centralized **data warehouse** integrating Google Forms, Sheets, and BigQuery  
-- ⚙️ Automated data transformation workflows, reducing manual spreadsheet consolidation by ~50%  
-- 📊 Built executive dashboards in Looker Studio tracking 10+ KPIs for real-time performance monitoring  
-- 🗺️ Maintain and execute a 3+ month product roadmap aligned with engineering and stakeholder deadlines  
-- 🧹 Reorganized and prioritized a backlog of 40+ tickets, reducing sprint carryover by ~25%  
-- ✅ Strengthened acceptance criteria and release validation, reducing post-release defects by ~60%  
+ 🏗️ Designed and implemented a centralized **data warehouse** integrating Google Forms, Sheets, and BigQuery  
+ ⚙️ Automated data transformation workflows, reducing manual spreadsheet consolidation by ~50%  
+ 📊 Built executive dashboards in Looker Studio tracking 10+ KPIs for real-time performance monitoring  
+ 🗺️ Maintain and execute a 3+ month product roadmap aligned with engineering and stakeholder deadlines  
+ 🧹 Reorganized and prioritized a backlog of 40+ tickets, reducing sprint carryover by ~25%  
+ ✅ Strengthened acceptance criteria and release validation, reducing post-release defects by ~60%  
 
 I enjoy working at the intersection of **data systems, business strategy, and product execution**.
 
 ---
 
-## 🔧 Technologies & Tools  
+### 🔧 Technologies & Tools  
 
-### 💻 Programming & Data  
+   💻 **Programming & Data:**
 Python, SQL, R, Pandas, NumPy, Jupyter  
 
-### 🗄️ Data Engineering & Warehousing  
+   🗄️ **Data Engineering & Warehousing:**
 BigQuery, PostgreSQL, SQL Server, TimescaleDB  
 
-### 🔄 Automation & Orchestration  
+   🔄 **Automation & Orchestration:**
 Airflow, Kafka, Docker, GitHub Actions  
 
-### ☁️ Cloud & DevOps  
+  ☁️ **Cloud & DevOps:**
 AWS (EC2, S3), Docker  
 
-### 📈 Visualization & BI  
+  📈 **Visualization & BI:** 
 Looker Studio, Power BI, Tableau, Grafana  
 
-### 🧩 Product & Workflow  
+  🧩 **Product & Workflow:** 
 Agile, Sprint Planning, Backlog Grooming, Roadmapping  
 
-### 🌐 Web Stack  
+  🌐 **Web Stack:** 
 FastAPI, Next.js, Tailwind CSS  
 
 ---
