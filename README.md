@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Nayelly Zurita  
 
-🎯 ** Data Product Management | Strategic Thinking | AI & Analytics **
+🎯 **Data Product Management | Strategic Thinking | AI & Analytics**
+
 ☁️ AWS Explorer | 📊 BI & Analytics Builder  
 
 🔍 I specialize in transforming fragmented data into scalable systems and actionable insights.  
