@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nayelly Zurita  
 
-🎯 **Data Specialist | Product Manager | Data Engineer**  
+🎯 ** Data Product Management | Strategic Thinking | AI & Analytics **
 ☁️ AWS Explorer | 📊 BI & Analytics Builder  
 
 🔍 I specialize in transforming fragmented data into scalable systems and actionable insights.  
